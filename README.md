@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**huseyinerikci/huseyinerikci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## Hi 👋,   I'm Hüseyin 
 
-Here are some ideas to get you started:
+ - 🌱 I'm a software developer and tech enthusiast. 
+ 
+ - 🔭 I’m currently working on HTML, CSS, JavaScript, Bootstrap and React.
+ 
+ - ⚡  I’m a disciplined and organized team player.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 📫 How to reach me: hsyn51671@gmail.com
+
+
+### Languages and Tools:
+
+![CSS3](https://camo.githubusercontent.com/930c71eac967cc5cec61c0aa08ba3719f9cb68e28cdffa63b28b0a31be1663b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
+![JavaScript ](https://camo.githubusercontent.com/29d02b3669d6450d67e043cf5909e740dcb94c1e2306d88ac48b15b4ec55dc65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)
+![HTML5 ](https://camo.githubusercontent.com/d4d9d935f85b68223a3514c6a889ea3ed6a77afb5f560c05baa1a1b168077830/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
+![Önyükleme 
+](https://camo.githubusercontent.com/87d97e4553a60edf0a89b98ae7e96ff2293c51ca69754f7b605c342ab0400a7a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333835313146412e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465)
+![image](https://github.com/user-attachments/assets/f34bd61e-5d51-42ad-86d1-c41c3324b137)
