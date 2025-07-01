@@ -22,6 +22,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60" />
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+<img src="https://camo.githubusercontent.com/27e75a4b2c4b0c6603e8975fef6d87b36ae1ea5bca6036a8b16a4897f4ae4769/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742e6a732d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d7768697465" alt="nextjs" width="100" height="50"/>
+
 </div>
 <!-- #-->
 <div>
